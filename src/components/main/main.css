@@ -1,0 +1,33 @@
+.test{
+    border: 3px solid rgb(252, 252, 252)
+}
+.card{
+    background-image: url('https://scontent.fhan14-2.fna.fbcdn.net/v/t1.15752-9/314337765_1839140969764883_3939549211568826428_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=94lZxQBrdUsAX_uRlHR&_nc_ht=scontent.fhan14-2.fna&oh=03_AdT3EqKKiIxVRRilbF7XiNWo6TmwrfV6h3UCJCGI9WJYCQ&oe=638C4C28');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    ;
+}
+.card1{
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.card-body{
+    height: 25vh;
+}
+.card-text.t1{
+    margin-bottom: 116px;
+}
+.btn-logout{
+    margin-bottom: 30px;
+}
+.radius{
+    width:200px ;
+    height:200px;
+    border-radius: 200px;
+    margin :10px auto;
+}
